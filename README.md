@@ -16,5 +16,7 @@ npm start
 
 Send link in GET parameter (url) like example below.
 
-For getting links: http://localhost:3000/scrap_urls?url=https://predb.me/
-For getting images: http://localhost:3000/scrap_images?url=https://www.deviantart.com/
+For getting links:
+http://localhost:3000/scrap_urls?url=https://predb.me/
+For getting images:
+http://localhost:3000/scrap_images?url=https://www.deviantart.com/
